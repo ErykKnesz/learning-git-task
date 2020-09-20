@@ -8,3 +8,4 @@ for sklep, produkt in lista_zakupów.items():
     for item in produkt:
         count = count + 1
 print(f"W sumie kupuję {count} produktów")
+print ("Second commit")
